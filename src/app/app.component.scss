@@ -1,0 +1,23 @@
+.master-head {
+  min-height: 100vh;
+  padding-top: 9.5rem;
+  padding-bottom: 5rem;
+  color: #fff;
+  background: #141414;
+
+  h1:nth-child(2) {
+      color: #bb8e62;
+  }
+}
+
+.navbar {
+  background: #ee3d2b;
+
+  a {
+    color: #fff;
+  }
+}
+
+.text-bold {
+  font-weight: bold;
+}
